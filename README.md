@@ -36,11 +36,3 @@ I am a funded master's student in Robotics at Carnegie Mellon School of Computer
 ## ᓚᘏᗢ
 
 </div>
-
-
-
-<div align="center">
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-
-</div>
