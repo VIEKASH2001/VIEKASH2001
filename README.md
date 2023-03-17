@@ -2,8 +2,6 @@
 
 # Hey there 👋, I'm Viekash Vinoth Kumar 👨‍💻
 
-<img src="MAIN.jpg" alt="RIKKA" width="200">
-
 </div>
 
 <div align="center">
