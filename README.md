@@ -2,7 +2,7 @@
 
 # Hey there 👋, I'm Viekash Vinoth Kumar 👨‍💻
 
-<img src="assets/anime-rikka-finger-spin-rounded.gif" alt="RIKKA" width="200">
+<img src="MAIN.jpg" alt="RIKKA" width="200">
 
 </div>
 
