@@ -40,9 +40,7 @@ I am a funded master's student in Robotics at Carnegie Mellon School of Computer
 
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=VIEKASH2001)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub followers](https://img.shields.io/github/followers/Syzygianinfern0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VIEKASH2001?tab=followers)
+
 
 </div>
