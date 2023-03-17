@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there 👋, I'm S P Sharan 👨‍💻
+# Hey there 👋, I'm Viekash Vinoth Kumar 👨‍💻
 
 <img src="assets/anime-rikka-finger-spin-rounded.gif" alt="RIKKA" width="200">
 
@@ -12,20 +12,17 @@
 
 </div>
 
-I am a first year PhD student at The University of Texas at Austin working on machine learning and robotics. My interests outside work include Linux, Pop Music, and Anime.
+I am a funded master's student in Robotics at Carnegie Mellon School of Computer Science, specializing in Computer Vision (CV), Deep Learning (DL) and Machine Learning (ML). My unwavering commitment to solving complex industrial Artificial Intelligence (AI)-powered automation challenges, coupled with a strong desire to democratize affordable and accessible technology, drives career aspirations in my speciality upon graduation in May 2024. To gain relevant experience and further hone my skills, I am actively seeking an internship opportunity for summer 2023.
 
-- 🔭 **I’m currently working on:** Random cool stuff probably
 - 💬 **Ask me about:** Anything tech
 - 📫 **How to reach me:** Drop a mail
-- ⚡ **Fun fact:** When I type, I sometimes like to use three dots… instead of a comma. It just feels more *me* 🙃
-- 🤯 **Extra Fun Fact:** My Dev-Tag/Gamer-Tag stands for `An Eclipse in Hell`
+- ⚡ **Fun fact:** Most people pronounce my first name wrong. Give it a try 🙃
 
 <div align="center">
     <samp>
         <!-- <br> -->
-        <a href="https://syzygianinfern0.github.io/">｢ me ｣</a> .
-        <a href="mailto:spsharan2000@gmail.com">｢ mail ｣</a> .
-        <a href="https://t.me/Syzygianinfern0">｢ tg ｣</a>
+        <a href="https://www.linkedin.com/in/viekash-v-k/">｢ in ｣</a> .
+        <a href="mailto:vvinothk@andrew.cmu.edu">｢ mail ｣</a> .
         <br>
         <br>
         A ship in harbor is safe, but that is not what ships are built for.
