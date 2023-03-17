@@ -12,20 +12,22 @@
 
 </div>
 
-I am a funded master's student in Robotics at Carnegie Mellon School of Computer Science, specializing in Computer Vision (CV), Deep Learning (DL) and Machine Learning (ML). My unwavering commitment to solving complex industrial Artificial Intelligence (AI)-powered automation challenges, coupled with a strong desire to democratize affordable and accessible technology, drives career aspirations in my speciality upon graduation in May 2024. To gain relevant experience and further hone my skills, I am actively seeking an internship opportunity for summer 2023.
+I am a funded master's student in Robotics at Carnegie Mellon School of Computer Science, specializing in Computer Vision, Deep Learning and Machine Learning. My unwavering commitment to solving complex industrial Artificial Intelligence-powered automation challenges, coupled with a strong desire to democratize affordable and accessible technology, drives career aspirations in my speciality upon graduation in May 2024. To gain relevant experience and further hone my skills, I am actively seeking an internship opportunity for summer 2023.
 
 - 💬 **Ask me about:** Anything tech
 - 📫 **How to reach me:** Drop a mail
 - ⚡ **Fun fact:** Most people pronounce my first name wrong. Give it a try 🙃
+- ♟ **Hobbies:** Chess, Athletics and Music
 
 <div align="center">
     <samp>
         <!-- <br> -->
-        <a href="https://www.linkedin.com/in/viekash-v-k/">｢ in ｣</a> .
-        <a href="mailto:vvinothk@andrew.cmu.edu">｢ mail ｣</a> .
+        <a href="https://www.linkedin.com/in/viekash-v-k/">｢ LinkedIn ｣</a> .
+        <a href="mailto:vvinothk@andrew.cmu.edu">｢ Email ｣</a> .
+        <a href="https://scholar.google.com/citations?user=P9ZYvMYAAAAJ&hl=en">｢ Google Scholar ｣</a> .
+        <a href="https://www.youtube.com/channel/UCH5-jDMnHteogaP73q_krkQ">｢ Youtube ｣</a> .
         <br>
         <br>
-        A ship in harbor is safe, but that is not what ships are built for.
     </samp>
 </div>
 
@@ -35,20 +37,7 @@ I am a funded master's student in Robotics at Carnegie Mellon School of Computer
 
 </div>
 
-<div align="center">
-    <img width="50" src="https://github.githubassets.com/images/mona-loading-default.gif">
-    <br>
-    <br>
-    <p><strong>We didn't receive a proper request from your browser.</strong></p>
-    <p>Sorry about that. Please try refreshing and contact us if the problem persists.</p>
-    <p>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a>
-        —
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a>
-        —
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
-    </p>
-</div>
+
 
 <div align="center">
 
