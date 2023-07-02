@@ -24,7 +24,7 @@
 </a>
 
 <a href='https://www.youtube.com/@Viekash2001' target="_blank">
-    <img alt='YouTube' src='https://www.youtube.com/yt/about/media/images/brand-resources/icons/YouTube_icon_full-color.svg'>
+    <img alt='YouTube' src='https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-icon-full_color.svg'>
 </a>
 
 <br/> 
