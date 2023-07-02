@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
 <a href="https://github.com/VIEKASH2001">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&width=500&height=80&lines=Viekash+Vinoth+Kumar;Deep+Learning+%7C+High-Performance+Computing+%7C+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&width=500&height=80&lines=Viekash+Vinoth+Kumar;Computer+Vision+%7C+Deep+Learning+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -20,7 +20,7 @@
 </a>
 
 <a href='https://sites.google.com/view/viekash' target="_blank">
-    <img alt='Website' src='https://img.shields.io/badge/Website-FF5722?style=flat&logoColor=white&&color=FFA500'>
+    <img alt='Portfolio Website' src='https://img.shields.io/badge/Website-FF5722?style=flat&logoColor=white&&color=FFA500'>
 </a>
 
 <br/> 
