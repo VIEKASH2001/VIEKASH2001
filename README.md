@@ -23,10 +23,6 @@
     <img alt='Website' src='https://img.shields.io/badge/Website-FF5722?style=flat&logoColor=white&&color=FFA500'>
 </a>
 
-<a href='https://www.youtube.com/@Viekash2001' target="_blank">
-    <img alt='YouTube' src='https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-icon-full_color.svg'>
-</a>
-
 <br/> 
 </p>
 </div>
