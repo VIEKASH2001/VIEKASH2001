@@ -42,20 +42,5 @@ Given my strong academic background, scholarship awards, extensive practical exp
 - ⚡ **Fun fact:** Most people pronounce my first name wrong. Give it a try 🙃
 - ♟ **Hobbies:** Chess, Athletics and Music
 
-<div align="center">
-    <samp>
-        <!-- <br> -->
-        <a href="https://www.linkedin.com/in/viekash-v-k/">｢ LinkedIn ｣</a> .
-        <a href="mailto:vvinothk@andrew.cmu.edu">｢ Email ｣</a> .
-        <a href="https://scholar.google.com/citations?user=P9ZYvMYAAAAJ&hl=en">｢ Google Scholar ｣</a> .
-        <a href="https://www.youtube.com/channel/UCH5-jDMnHteogaP73q_krkQ">｢ Youtube ｣</a>
-        <br>
-        <br>
-    </samp>
-</div>
-
-<div align="center">
-
 ## ᓚᘏᗢ
-
 </div>
