@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&width=500&height=80&lines=Viekash+Vinoth+Kumar;Deep+Learning+%7C+High-Performance+Computing+%7C+Engineering" alt="Typing SVG" />
 </a>
 <br/>
-</div>
 
 <a href="https://www.linkedin.com/in/dhruv-srikanth/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
@@ -26,6 +25,7 @@
 
 <br/> 
 </p>
+</div>
 
 I am a funded master's student in Robotics at Carnegie Mellon School of Computer Science, specializing in Computer Vision (CV), Deep Learning (DL) and Machine Learning (ML). My unwavering commitment to solving complex industrial Artificial Intelligence (AI)-powered automation challenges, coupled with a strong desire to democratize affordable and accessible technology, drives career aspirations in my speciality upon graduation in May 2024. To gain relevant experience and further hone my skills, I am actively seeking an internship opportunity for summer 2023.
 
