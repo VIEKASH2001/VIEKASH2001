@@ -42,5 +42,4 @@ Given my strong academic background, scholarship awards, extensive practical exp
 - ⚡ **Fun fact:** Most people pronounce my first name wrong. Give it a try 🙃
 - ♟ **Hobbies:** Chess, Athletics and Music
 
-## ᓚᘏᗢ
 </div>
