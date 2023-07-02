@@ -5,13 +5,13 @@
 </a>
 <br/>
 
-<a href="https://www.linkedin.com/in/dhruv-srikanth/">
+<a href="https://www.linkedin.com/in/viekash-v-k/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
 </a>
-<a href="mailto:dhruvsrikanth@uchicago.edu">
+<a href="mailto:vvinothk@andrew.cmu.edu">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
 </a>
-<a href='https://scholar.google.com/citations?hl=en&user=Dvh53xkAAAAJ' target="_blank">
+<a href='https://scholar.google.com/citations?user=P9ZYvMYAAAAJ&hl=en' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
     
@@ -19,7 +19,7 @@
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDhruvSrikanth">
 </a>
 
-<a href='https://dhruvsrikanth.github.io/' target="_blank">
+<a href='https://sites.google.com/view/viekash' target="_blank">
     <img alt='Website' src='https://img.shields.io/badge/Website-FF5722?style=flat&logoColor=white&&color=FFA500'>
 </a>
 
