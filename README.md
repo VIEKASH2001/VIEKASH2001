@@ -1,6 +1,6 @@
-#### Hello there. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28" alt="hi">
 
 <div align="center">
+#### Hello there. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28" alt="hi">
 <p align="center">
 <a href="https://github.com/VIEKASH2001">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&width=500&height=80&lines=Viekash+Vinoth+Kumar;Computer+Vision+%7C+Deep+Learning+%7C+Machine+Learning" alt="Typing SVG" />
