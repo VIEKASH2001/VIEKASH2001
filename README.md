@@ -15,7 +15,7 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
     
-<a href="https://twitter.com/DhruvSrikanth">
+<a href="https://twitter.com/ViekashK">
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDhruvSrikanth">
 </a>
 
