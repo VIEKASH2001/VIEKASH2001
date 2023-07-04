@@ -34,7 +34,7 @@ I’m a funded master’s student at Carnegie Mellon University (CMU) Robotics I
 
 My unwavering commitment to solving complex real-world Artificial Intelligence (AI)-powered automation challenges, coupled with a strong desire to democratize affordable and accessible technology, drives career aspirations in my speciality upon graduation in May 2024 and I am actively seeking a full-time opportunity.
 
-Given my strong academic background, prestigious accolades, 3+ years of extensive practical experience developing industry-relevant solutions in diverse CV, DL and ML global ventures under esteemed sponsorships, with over 7 publications, combined with my demonstrated track record of soft skills through extracurriculars and volunteering, I am an excellent candidate for a relevant position.
+Given my strong academic background, prestigious accolades, 3+ years of extensive practical experience developing industry-relevant solutions in diverse CV, DL and ML global ventures under esteemed sponsorships, with over 8 publications, combined with my demonstrated track record of soft skills through extracurriculars and volunteering, I am an excellent candidate for a relevant position.
 
 - 💬 **Ask me about:** Anything tech
 - 📫 **How to reach me:** Drop a mail
