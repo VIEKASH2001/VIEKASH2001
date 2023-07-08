@@ -36,7 +36,7 @@ At CMU, I am cultivating expertise in creating practical AI solutions that align
 
 Before CMU, several global collaborations with universities: UWaterloo, NUS, ICL and CUHK (exchange study) exposed me to designing industrial automation software: A clinician-friendly diagnosis and experimental analysis app to aid ophthalmologists and CV-DL frameworks to tackle automation delays in medical imaging (Graph networks) & latency in computer-assisted surgery (Paced curriculum learning with knowledge distillation). 
 
-My introduction to CV, DL & ML was at IIT-M, building sketch query 3D CAD model CNN retrieval systems and honed my skillset at Origin Health Pte. Ltd., prototyping in-house Python GUI and fetal screening CV-algorithms that piqued VCs. Moreover, I garnered this passion firstly initially, devising a DL-based EMG-controlled CPM machine, as an undergraduate engineer at my university robotics club. 
+My introduction to CV, DL & ML was at IIT-M, building sketch query 3D CAD model CNN retrieval systems and honed my skillset at Origin Health Pte. Ltd., prototyping in-house Python GUI and fetal screening CV-algorithms that piqued VCs. Moreover, I garnered this passion firstly initially, devising a DL-based EMG-controlled CPM machine, as an undergraduate instrumentation & control engineer at my university robotics club. 
 
 These experiences made me industry-ready, equipped with the organizational ethos and AI expertise in signal, image, video and volume data.
 
