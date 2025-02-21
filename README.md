@@ -33,7 +33,7 @@ At CMU, I cultivated proficiency in creating practical AI solutions that align s
 
 Before CMU, several global collaborations with universities: **University of Waterloo**, **NUS**, **ICL** and **CUHK** (exchange study) exposed me to designing industrial automation software: A clinical diagnosis and experimental analysis **app** to aid ophthalmologists and CV-DL frameworks to tackle automation delays in medical imaging (**Graph networks**) and latency in computer-assisted surgery (**Paced curriculum learning** with **knowledge distillation**). My introduction to CV, DL and ML was at **IIT-M**, building sketch query 3D CAD model **CNN** retrieval systems and honed my skillset at **Origin Health Pte. Ltd.**, prototyping in-house **Python GUI** and fetal screening CV-algorithms that piqued VCs. Moreover, I garnered this passion initially, devising a **DL-based EMG-controlled** CPM machine, as an undergraduate instrumentation and control engineer at my university robotics club. These experiences made me industry-ready, equipped with organizational ethos and AI expertise in **signal**, **image**, **video** and **volume** **data**.
 
-My extensive practical experience, robust academic background, accolades, and diverse soft skills make me a valuable asset to any suitable role and I welcome the opportunity to interview. Don't hesitate to contact me for any additional questions or further clarification on my achievements. Thank you for your time and consideration.
+My extensive practical experience, robust academic background, accolades, and diverse soft skills make me a valuable asset to any suitable role. Don't hesitate to contact me for any additional questions or further clarification on my achievements. Thank you for your time and consideration.
 
 
 
