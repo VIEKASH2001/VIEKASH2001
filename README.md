@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
 <a href="https://github.com/VIEKASH2001">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&width=500&height=80&lines=Viekash+Vinoth+Kumar;Computer+Vision+%7C+Deep+Learning+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&width=500&height=80&lines=Viekash+Vinoth+Kumar;Language+and+Multimodal+Models+%7C+Machine Learning+Acceleration+and+Infrastructure" alt="Typing SVG" />
 </a>
 <br/>
 
