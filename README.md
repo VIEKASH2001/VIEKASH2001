@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/viekash-v-k/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
 </a>
-<a href="mailto:vvinothk@andrew.cmu.edu">
+<a href="mailto:vinothkumar.viekash@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
 </a>
 <a href='https://scholar.google.com/citations?user=P9ZYvMYAAAAJ&hl=en' target="_blank">
